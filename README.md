@@ -14,19 +14,19 @@ evidence of conformance. No criterion is ever reported as passing.
 assessment and No issues detected, a breakdown by the four WCAG principles, and a "Fix these
 first" list of the highest-priority failures.
 
-![Overview of the accessibility checker panel](extension/screenshots/AccessibilityChecker-overview.png)
+![Overview of the accessibility checker panel](screenshots/AccessibilityChecker-overview.png)
 
 **Issue detail.** Drilling into a single failing criterion - what the scan found, why it fails
 the criterion, which elements failed with a Locate button to jump to each one on the form, and
 how to fix it in Dynamics 365.
 
-![Detail view for a failing WCAG criterion](extension/screenshots/AccessibilityChecker-issue-detail.png)
+![Detail view for a failing WCAG criterion](screenshots/AccessibilityChecker-issue-detail.png)
 
 **WCAG reference.** All 55 Level A and AA success criteria in plain English, independent of any
 scan - what each one requires, what it looks like in Dynamics 365, how it commonly fails, and
 how far this tool's automated checks can cover it.
 
-![WCAG 2.2 reference view listing all 55 criteria](extension/screenshots/AccessibilityChecker-WCAG-reference.png)
+![WCAG 2.2 reference view listing all 55 criteria](screenshots/AccessibilityChecker-WCAG-reference.png)
 
 ## What is in this folder
 
